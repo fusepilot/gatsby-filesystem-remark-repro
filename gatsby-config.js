@@ -3,7 +3,6 @@ module.exports = {
     title: 'Gatsby Default Starter',
   },
   plugins: [
-    'gatsby-plugin-react-next',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
